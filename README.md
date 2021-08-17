@@ -14,6 +14,8 @@ Now I know how to deploy to github pages (I haven't done that before and I learn
 
 Did not add transitions, loading state actually styling from thin air took the most time. Also I wasn't sure for the background requirement for favourite colour was for just the footer or the page as a whole (I assumed the footer.)
 
+Also did not add the caching to save, so refreshing the page clears all.
+
 ## How could the application be improved?
 
 I could have used typescript and emotion to not use sass. Add more comments. Make the search page similar to the playlist page.

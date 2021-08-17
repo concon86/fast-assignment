@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/fast-assignment/static/css/main.a617e044.chunk.css",
-    "main.js": "/fast-assignment/static/js/main.d2d04f6c.chunk.js",
-    "main.js.map": "/fast-assignment/static/js/main.d2d04f6c.chunk.js.map",
-    "runtime-main.js": "/fast-assignment/static/js/runtime-main.ec7cecac.js",
-    "runtime-main.js.map": "/fast-assignment/static/js/runtime-main.ec7cecac.js.map",
-    "static/js/2.7fa11a85.chunk.js": "/fast-assignment/static/js/2.7fa11a85.chunk.js",
-    "static/js/2.7fa11a85.chunk.js.map": "/fast-assignment/static/js/2.7fa11a85.chunk.js.map",
-    "static/js/3.71d2bc89.chunk.js": "/fast-assignment/static/js/3.71d2bc89.chunk.js",
-    "static/js/3.71d2bc89.chunk.js.map": "/fast-assignment/static/js/3.71d2bc89.chunk.js.map",
+    "main.css": "/fast-assignment/static/css/main.74d64da3.chunk.css",
+    "main.js": "/fast-assignment/static/js/main.7a7d78f6.chunk.js",
+    "main.js.map": "/fast-assignment/static/js/main.7a7d78f6.chunk.js.map",
+    "runtime-main.js": "/fast-assignment/static/js/runtime-main.53deb50c.js",
+    "runtime-main.js.map": "/fast-assignment/static/js/runtime-main.53deb50c.js.map",
+    "static/js/2.362ec065.chunk.js": "/fast-assignment/static/js/2.362ec065.chunk.js",
+    "static/js/2.362ec065.chunk.js.map": "/fast-assignment/static/js/2.362ec065.chunk.js.map",
+    "static/js/3.734d2844.chunk.js": "/fast-assignment/static/js/3.734d2844.chunk.js",
+    "static/js/3.734d2844.chunk.js.map": "/fast-assignment/static/js/3.734d2844.chunk.js.map",
     "index.html": "/fast-assignment/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/fast-assignment/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.7fa11a85.chunk.js.LICENSE.txt": "/fast-assignment/static/js/2.7fa11a85.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/fast-assignment/static/media/logo.6ce24c58.svg"
+    "static/css/main.74d64da3.chunk.css.map": "/fast-assignment/static/css/main.74d64da3.chunk.css.map",
+    "static/js/2.362ec065.chunk.js.LICENSE.txt": "/fast-assignment/static/js/2.362ec065.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ec7cecac.js",
-    "static/js/2.7fa11a85.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.d2d04f6c.chunk.js"
+    "static/js/runtime-main.53deb50c.js",
+    "static/js/2.362ec065.chunk.js",
+    "static/css/main.74d64da3.chunk.css",
+    "static/js/main.7a7d78f6.chunk.js"
   ]
 }
